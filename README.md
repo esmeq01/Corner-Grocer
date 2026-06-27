@@ -1,5 +1,5 @@
 ﻿# Corner-Grocer
-%I was tasked with developing an item-tracking program for Corner Grocer. They outlined specific features to enhance the program's performance and functionality, requiring careful consideration of its structure.
+I was tasked with developing an item-tracking program for Corner Grocer. They outlined specific features to enhance the program's performance and functionality, requiring careful consideration of its structure.
 
 To ensure maintainability and reusability, I organized my code into separate files. The `GroceryItem` class file contains the data structures, along with their getters and constructors. In contrast, the data processing code resides in the `Source` class.
 
