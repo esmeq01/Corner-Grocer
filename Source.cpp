@@ -1,9 +1,3 @@
-/*
-*Name:Esmeralda Quiroz
-*Date: 06/21/26
-*Assignment: Project3 - Corner Grocer
-*/
-
 #include <iostream>
 #include <fstream>
 #include <map>
